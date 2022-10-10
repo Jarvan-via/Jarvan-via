@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jarvan-via
-- 👀 I’m interested in Watch tv
+- 👀 I’m interested in TV show
 - 🌱 I’m  Node.js BE engineer
 - 📫 17720284880
 
